@@ -11,3 +11,7 @@ With the data from the .csv files, on localhost, it would look like a website to
 
 *************** Needs work ******
 the program will adventually allow the user to select the "employer" option that would allow them to add, remode, or modify employee info.
+
+****** Please note *********
+There is a user name and password associated with this project in database.php. A user will need to be created to match the ones in the file,
+    or the username and password will need to be set to zero length strings.
