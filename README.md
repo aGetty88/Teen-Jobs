@@ -9,9 +9,9 @@ The .csv files are conversions of the raw excell files. The .csv files were need
 The main project is taking that data and using it as if were a real company.
 With the data from the .csv files, on localhost, it would look like a website to look up employee info.
 
-*************** Needs work ******
+*************** Under Development ******
 the program will adventually allow the user to select the "employer" option that would allow them to add, remode, or modify employee info.
 
 ****** Please note *********
-There is a user name and password associated with this project in database.php. A user will need to be created to match the ones in the file,
+There is a user name and password associated with this project in database.php. A "user" will need to be created to match the ones in the file,
     or the username and password will need to be set to zero length strings.
